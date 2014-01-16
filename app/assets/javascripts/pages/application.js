@@ -11,11 +11,5 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery_ujs
-//= require angular
-//= require angular-animate
-//= require underscore
-//= require augment
-//= require lunr
 //= require pages/main
 //= require_tree .
